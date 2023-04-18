@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "counter_bloc_flutter",
+            "cwd": "counter_bloc_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "theme_bloc_flutter",
+            "cwd": "theme_bloc_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "theme_cubit_flutter",
+            "cwd": "theme_cubit_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "todo_app_cubit_streamsubscription",
+            "cwd": "todo_app_cubit_streamsubscription",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "todo_app_cubit_bloclistener",
+            "cwd": "todo_app_cubit_bloclistener",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "todo_app_bloc_streamsubscription",
+            "cwd": "todo_app_bloc_streamsubscription",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "todo_app_bloc_bloclistener",
+            "cwd": "todo_app_bloc_bloclistener",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
